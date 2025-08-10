@@ -1,4 +1,4 @@
-# 🌦 WeatherSense — React Weather App
+# 🌦 React Weather App
 
 WeatherSense is a sleek and responsive weather application built with **React + Vite**.  
 It fetches real-time weather data from the **OpenWeatherMap API** and demonstrates a full range of modern React features — from basic hooks to context, refs, and promise-based API handling.
